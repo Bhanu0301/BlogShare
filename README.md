@@ -1,6 +1,7 @@
 # BlogShare
+Created A Interactive Blog Posting App,i.e. *BlogShare* where users can authenticate themselves and share blogs on this public platform with other users in particular or as a whole.
 
-
+Tools,Languages and frameworks used : *django,HTML,CSS,Bootstrap5*
 
 # SCREENSHOTS
 
